@@ -1,4 +1,4 @@
-module MySuperLedger/client
+module github.com/mySuperLedger/MySuperLedgerClient
 
 go 1.19
 

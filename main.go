@@ -1,9 +1,9 @@
 package main
 
 import (
-	ledgerPB "MySuperLedger/client/src/autogen/protos"
 	"context"
 	"fmt"
+	ledgerPB "github.com/mySuperLedger/MySuperLedgerClient/src/autogen/protos"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"gopkg.in/ini.v1"
